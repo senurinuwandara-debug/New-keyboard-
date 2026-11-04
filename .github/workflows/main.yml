@@ -26,15 +26,6 @@ jobs:
         uses: lukka/get-cmake@v4.0.2
       - name: Build with Gradle
         run: chmod +x gradlew && ./gradlew clean assembleDebug
-      - name: Show APK size
-        run: ls -l app/build/outputs/apk/debug/
-      - name: Upload APK
-        uses: actions/upload-artifact@v4
-        with:
-          name: MathraKeyboard-debug
-          path: app/build/outputs/apk/debug/app-debug.apk
-          compression-level: 0
-          retention-days: 14
       - name: Publish release
         uses: softprops/action-gh-release@v2
         with:
