@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mathra__tagline">ලස්සන, වේගවත්, ඔබේම සිංහල + English කීබෝඩ්</string>
+    <string name="mathra__status_ready">ටයිප් කිරීමට සූදානම්</string>
+    <string name="mathra__status_enable">Mathra Keyboard සක්‍රීය කිරීමට ඔබන්න</string>
+    <string name="mathra__status_select">Mathra Keyboard වෙත මාරු වීමට ඔබන්න</string>
+    <string name="mathra__dashboard">ඩැෂ්බෝඩ්</string>
+    <string name="mathra__about__made_by">දෙනුවන් ආකාශ් විසින් ආදරයෙන් නිර්මාණය කරන ලදී</string>
+    <string name="mathra__about__description">Mathra Keyboard යනු ලස්සන තීම්, ග්ලයිඩ් ටයිපින්, ක්ලිප්බෝඩ්, ඉමෝජි සහිත නොමිලේ සිංහල සහ English කීබෝඩ් එකකි.</string>
+    <string name="mathra__about__features">විශේෂාංග</string>
+    <string name="mathra__about__features_list">• සිංහල සහ English layouts\n• නියොන්, ගෝල්ඩ්, හනී තීම්\n• ග්ලයිඩ් ටයිපින් සහ ස්මාර්ට් යෝජනා\n• ක්ලිප්බෝඩ් ඉතිහාසය සහ ඉමෝජි\n• එක් අතින් භාවිතය, ශබ්ද සහ වයිබ්‍රේෂන්\n• සම්පූර්ණයෙන් වෙනස් කළ හැකි තීම් එඩිටරය</string>
+    <string name="mathra__about__creator">නිර්මාතෘ</string>
+    <string name="mathra__about__tiktok">TikTok: @mathra_quotes_1</string>
+    <string name="mathra__about__github">GitHub: denuvan-akash</string>
+    <string name="mathra__about__credit">විවෘත මූලාශ්‍ර Mathra Keyboard ව්‍යාපෘතිය මත (Apache License 2.0) ගොඩනගා ඇත.</string>
+</resources>
