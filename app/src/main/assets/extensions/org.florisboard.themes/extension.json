@@ -1,0 +1,111 @@
+{
+  "$": "ime.extension.theme",
+  "meta": {
+    "id": "org.florisboard.themes",
+    "version": "0.2.0",
+    "title": "Mathra Keyboard themes",
+    "description": "Mathra default day/night themes",
+    "maintainers": [
+      "Denuwan Akash <https://github.com/denuvan-akash>"
+    ],
+    "license": "apache-2.0"
+  },
+  "themes": [
+    {
+      "id": "mathra_gold",
+      "label": "Mathra Gold",
+      "authors": [
+        "Denuwan Akash"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "mathra_neon_night",
+      "label": "Mathra Neon Night",
+      "authors": [
+        "Denuwan Akash"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "mathra_pink",
+      "label": "Mathra Pink",
+      "authors": [
+        "Denuwan Akash"
+      ],
+      "isNight": false
+    },
+    {
+      "id": "mathra_honey_day",
+      "label": "Mathra Honey Day",
+      "authors": [
+        "Denuwan Akash"
+      ],
+      "isNight": false
+    },
+    {
+      "id": "mathra_ocean_glow",
+      "label": "Mathra Ocean Glow",
+      "authors": [
+        "Denuwan Akash"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "mathra_midnight_black",
+      "label": "Mathra Midnight Black",
+      "authors": [
+        "Denuwan Akash"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "floris_day",
+      "label": "Mathra Day",
+      "authors": [
+        "patrickgold"
+      ],
+      "isNight": false
+    },
+    {
+      "id": "floris_day_borderless",
+      "label": "Mathra Day (Borderless)",
+      "authors": [
+        "patrickgold"
+      ],
+      "isNight": false
+    },
+    {
+      "id": "floris_night",
+      "label": "Mathra Night",
+      "authors": [
+        "patrickgold"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "floris_night_borderless",
+      "label": "Mathra Night (Borderless)",
+      "authors": [
+        "patrickgold"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "floris_pure_night",
+      "label": "Mathra Pure Night",
+      "authors": [
+        "serebit"
+      ],
+      "isNight": true
+    },
+    {
+      "id": "floris_pure_night_borderless",
+      "label": "Mathra Pure Night (Borderless)",
+      "authors": [
+        "serebit"
+      ],
+      "isNight": true
+    }
+  ]
+}

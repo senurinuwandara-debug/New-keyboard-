@@ -1,0 +1,477 @@
+[
+ [
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3482,
+    "label": "ක"
+   },
+   "upper": {
+    "code": 3483,
+    "label": "ඛ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3484,
+    "label": "ග",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3487,
+       "label": "ඟ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3485,
+    "label": "ඝ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3487,
+       "label": "ඟ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3488,
+    "label": "ච"
+   },
+   "upper": {
+    "code": 3489,
+    "label": "ඡ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3490,
+    "label": "ජ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3494,
+       "label": "ඦ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3491,
+    "label": "ඣ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3494,
+       "label": "ඦ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3495,
+    "label": "ට"
+   },
+   "upper": {
+    "code": 3496,
+    "label": "ඨ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3497,
+    "label": "ඩ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3500,
+       "label": "ඬ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3498,
+    "label": "ඪ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3500,
+       "label": "ඬ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3501,
+    "label": "ත"
+   },
+   "upper": {
+    "code": 3502,
+    "label": "ථ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3503,
+    "label": "ද",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3507,
+       "label": "ඳ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3504,
+    "label": "ධ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3507,
+       "label": "ඳ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3505,
+    "label": "න"
+   },
+   "upper": {
+    "code": 3499,
+    "label": "ණ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3508,
+    "label": "ප"
+   },
+   "upper": {
+    "code": 3509,
+    "label": "ඵ"
+   }
+  }
+ ],
+ [
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3510,
+    "label": "බ"
+   },
+   "upper": {
+    "code": 3511,
+    "label": "භ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3512,
+    "label": "ම"
+   },
+   "upper": {
+    "code": 3513,
+    "label": "ඹ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3514,
+    "label": "ය"
+   },
+   "upper": {
+    "code": 3515,
+    "label": "ර"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3517,
+    "label": "ල"
+   },
+   "upper": {
+    "code": 3525,
+    "label": "ළ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3520,
+    "label": "ව"
+   },
+   "upper": {
+    "code": 3521,
+    "label": "ශ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3522,
+    "label": "ෂ"
+   },
+   "upper": {
+    "code": 3523,
+    "label": "ස"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3524,
+    "label": "හ"
+   },
+   "upper": {
+    "code": 3526,
+    "label": "ෆ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3492,
+    "label": "ඤ"
+   },
+   "upper": {
+    "code": 3486,
+    "label": "ඞ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3458,
+    "label": "ං"
+   },
+   "upper": {
+    "code": 3459,
+    "label": "ඃ"
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3469,
+    "label": "ඍ"
+   },
+   "upper": {
+    "code": 3470,
+    "label": "ඎ"
+   }
+  }
+ ],
+ [
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3535,
+    "label": "ා",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3461,
+       "label": "අ"
+      },
+      {
+       "code": 3462,
+       "label": "ආ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3536,
+    "label": "ැ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3463,
+       "label": "ඇ"
+      },
+      {
+       "code": 3464,
+       "label": "ඈ"
+      },
+      {
+       "code": 3537,
+       "label": "ෑ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3538,
+    "label": "ි",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3465,
+       "label": "ඉ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3539,
+    "label": "ී",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3466,
+       "label": "ඊ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3540,
+    "label": "ු",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3467,
+       "label": "උ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3542,
+    "label": "ූ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3468,
+       "label": "ඌ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3545,
+    "label": "ෙ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3473,
+       "label": "එ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3546,
+    "label": "ේ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3474,
+       "label": "ඒ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3548,
+    "label": "ො",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3476,
+       "label": "ඔ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3549,
+    "label": "ෝ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3477,
+       "label": "ඕ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3547,
+    "label": "ෛ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3475,
+       "label": "ඓ"
+      }
+     ]
+    }
+   },
+   "upper": {
+    "code": 3550,
+    "label": "ෞ",
+    "popup": {
+     "relevant": [
+      {
+       "code": 3478,
+       "label": "ඖ"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "$": "case_selector",
+   "lower": {
+    "code": 3544,
+    "label": "ෘ"
+   },
+   "upper": {
+    "code": 3530,
+    "label": "්"
+   }
+  }
+ ]
+]
