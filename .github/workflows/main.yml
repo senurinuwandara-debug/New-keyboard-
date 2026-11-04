@@ -22,7 +22,7 @@ jobs:
       - name: Set up CMake and Ninja
         uses: lukka/get-cmake@v4.0.2
       - name: Build with Gradle
-        run: ./gradlew clean assembleDebug
+        run: chmod +x gradlew && ./gradlew clean assembleDebug
       - name: Show APK size
         run: ls -l app/build/outputs/apk/debug/
       - name: Upload APK
